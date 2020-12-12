@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <food>
+    <name>Bacon Clubhouse Burger</name>
+    <price>10zł</price>
+    <description>Delicious, juicy chicken cutlet, in a very crispy, golden coating</description>
+    <calories>720</calories>
+  </food>
+  <food>
+	<name>McWrap Supreme Crispy Chicken</name>
+    <price>12zł</price>
+    <description>Juicy chicken meat cutlet, in a very crispy, golden coating, with fresh batava lettuce, with rings of expressive red onion, juicy tomato</description>
+    <calories>530</calories>
+  </food>
+  
+</menu>

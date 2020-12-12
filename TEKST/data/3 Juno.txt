@@ -1,0 +1,49 @@
+Juno, minor-planet designation 3 Juno in the Minor Planet Center catalogue system, was the third asteroid to be discovered and is the 11th-largest asteroid in the asteroid belt, and one of the two largest stony (S-type) asteroids, along with 15 Eunomia. It is estimated to contain 1% of the total mass of the asteroid belt. Juno was discovered on September 1, 1804, by German astronomer Karl L. Harding.
+
+
+
+
+
+
+Juno was discovered in 1804 by Karl Ludwig Harding. It was the third asteroid found, but was initially considered to be a planet; it was reclassified as an asteroid and minor planet during the 1850s.
+
+
+
+3 Juno is named after the mythological Juno, the highest Roman goddess. The adjectival form is Junonian (j n nius).
+With two exceptions, 'Juno' is the international name, subject to local variation: Italian Giunone, French Junon, Russian Yunona, etc. Its planetary symbol is  . An older symbol, still occasionally seen, is   ().
+
+
+
+Juno is one of the larger asteroids, perhaps tenth by size and containing approximately 1% the mass of the entire asteroid belt. It is the second-most-massive S-type asteroid after 15 Eunomia. Even so, Juno has only 3% the mass of Ceres.
+
+The orbital period of 3 Juno is 4.36578 years.
+Amongst S-type asteroids, Juno is unusually reflective, which may be indicative of distinct surface properties. This high albedo explains its relatively high apparent magnitude for a small object not near the inner edge of the asteroid belt. Juno can reach +7.5 at a favourable opposition, which is brighter than Neptune or Titan, and is the reason for it being discovered before the larger asteroids Hygiea, Europa, Davida, and Interamnia. At most oppositions, however, Juno only reaches a magnitude of around +8.7 only just visible with binoculars and at smaller elongations a 3-inch (76 mm) telescope will be required to resolve it. It is the main body in the Juno family.
+Juno was originally considered a planet, along with 1 Ceres, 2 Pallas, and 4 Vesta. In 1811, Schr ter estimated Juno to be as large as 2290 km in diameter. All four were reclassified as asteroids as additional asteroids were discovered. Juno's small size and irregular shape preclude it from being designated a dwarf planet.
+Juno orbits at a slightly closer mean distance to the Sun than Ceres or Pallas. Its orbit is moderately inclined at around 12  to the ecliptic, but has an extreme eccentricity, greater than that of Pluto. This high eccentricity brings Juno closer to the Sun at perihelion than Vesta and further out at aphelion than Ceres. Juno had the most eccentric orbit of any known body until 33 Polyhymnia was discovered in 1854, and of asteroids over 200 km in diameter only 324 Bamberga has a more eccentric orbit.
+Juno rotates in a prograde direction with an axial tilt of approximately 50 . The maximum temperature on the surface, directly facing the Sun, was measured at about 293 K on October 2, 2001. Taking into account the heliocentric distance at the time, this gives an estimated maximum temperature of 301 K (+28  C) at perihelion.
+Spectroscopic studies of the Junonian surface permit the conclusion that Juno could be the progenitor of chondrites, a common type of stony meteorite composed of iron-bearing silicates such as olivine and pyroxene. Infrared images reveal that Juno possesses an approximately 100 km-wide crater or ejecta feature, the result of a geologically young impact.
+
+
+
+Juno was the first asteroid for which an occultation was observed. It passed in front of a dim star (SAO 112328) on February 19, 1958. Since then, several occultations by Juno have been observed, the most fruitful being the occultation of SAO 115946 on December 11, 1979, which was registered by 18 observers. Juno occulted the magnitude 11.3 star PPMX 9823370 on July 29, 2013, and 2UCAC 30446947 on July 30, 2013.
+Radio signals from spacecraft in orbit around Mars and on its surface have been used to estimate the mass of Juno from the tiny perturbations induced by it onto the motion of Mars. Juno's orbit appears to have changed slightly around 1839, very likely due to perturbations from a passing asteroid, whose identity has not been determined. An alternate but less likely explanation is an impact by a sizeable body.
+In 1996, Juno was imaged by the Hooker Telescope at Mount Wilson Observatory at visible and near-IR wavelengths, using adaptive optics. The images spanned a whole rotation period and revealed an irregular shape and a dark albedo feature, interpreted as a fresh impact site.
+
+
+
+Juno in fiction
+Former classification of planets
+
+
+
+
+
+
+
+
+
+JPL Ephemeris
+Well resolved images from four angles taken at Mount Wilson observatory
+Shape model deduced from light curve
+Asteroid Juno Grabs the Spotlight
+"Elements and Ephemeris for (3) Juno". Minor Planet Center.  (displays Elong from Sun and V mag for 2011)
